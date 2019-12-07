@@ -9,6 +9,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
+<<<<<<< HEAD
   i = 0
   new_arr = []
   sentence = ""
@@ -27,3 +28,7 @@ def print_first_directors_movie_titles
  # sentence = new_arr.join('\n')
 #  pp sentence
   end
+=======
+  puts directors_database
+end
+>>>>>>> 82f108ef5252271138a8e7c2df06bdd3548519c0
